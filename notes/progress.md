@@ -8,3 +8,5 @@
 
 - Let the log grow gradually over time.
 
+- Keep short updates about overall progress.
+
