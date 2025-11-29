@@ -10,3 +10,5 @@
 
 - Keep short updates about overall progress.
 
+- Note blockers briefly and clearly.
+
