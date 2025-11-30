@@ -12,3 +12,5 @@
 
 - Note blockers briefly and clearly.
 
+- Capture ideas that might be useful later.
+
