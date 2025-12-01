@@ -14,3 +14,5 @@
 
 - Capture ideas that might be useful later.
 
+- Keep writing style consistent and simple.
+
