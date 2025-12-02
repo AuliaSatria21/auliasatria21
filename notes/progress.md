@@ -16,3 +16,5 @@
 
 - Keep writing style consistent and simple.
 
+- Revisit older progress notes for direction.
+
