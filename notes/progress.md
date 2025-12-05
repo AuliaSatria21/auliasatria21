@@ -18,3 +18,5 @@
 
 - Revisit older progress notes for direction.
 
+- Use this file as a quick progress snapshot.
+
