@@ -20,3 +20,5 @@
 
 - Use this file as a quick progress snapshot.
 
+- Let the log grow gradually over time.
+
