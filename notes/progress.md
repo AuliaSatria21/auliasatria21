@@ -22,3 +22,7 @@
 
 - Let the log grow gradually over time.
 
+
+*   Consider adding unit tests for core functionalities.
+*   Explore potential for CI/CD integration for automated testing and deployment.
+
