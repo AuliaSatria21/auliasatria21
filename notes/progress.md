@@ -30,3 +30,9 @@
 *   **Focus:** Consider a clear thematic focus. Is it primarily about [specific technology/project type], [personal learning journey], or [contribution to open source]?
 *   **Documentation:** Add a comprehensive README.md that clearly explains the purpose of the repository, how to use/run the projects, and any prerequisites.
 
+
+**Repo:** auliasatria21
+
+*   Consider a README.md with project descriptions and setup instructions.
+*   Add contribution guidelines for collaborative development.
+
