@@ -42,3 +42,7 @@
 * **Contribution Guidelines:** Create a CONTRIBUTING.md to encourage community involvement.
 * **Issue Tracking:** Utilize GitHub Issues for bug reports and feature requests.
 
+
+- Consider adding a `README.md` file to explain the project's purpose, setup, and usage.
+- Implement basic unit tests for core functionalities to ensure stability and prevent regressions.
+
