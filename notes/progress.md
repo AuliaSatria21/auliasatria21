@@ -46,3 +46,7 @@
 - Consider adding a `README.md` file to explain the project's purpose, setup, and usage.
 - Implement basic unit tests for core functionalities to ensure stability and prevent regressions.
 
+
+Consider adding a `README.md` file with a brief description and setup instructions.
+Explore a CI/CD pipeline for automated testing and deployment.
+
