@@ -50,3 +50,8 @@
 Consider adding a `README.md` file with a brief description and setup instructions.
 Explore a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a "Contributing.md" file to guide potential collaborators.
+
+Explore adding more comprehensive README documentation with usage examples and installation instructions.
+
