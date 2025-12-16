@@ -61,3 +61,7 @@ This repo seems to focus on Rust and web development. Potential notes:
 *   Consider adding examples of Rust web frameworks like Actix-web or Rocket.
 *   Explore integration of WebAssembly (Wasm) with Rust for frontend interactivity.
 
+
+- Contribution guidelines for new contributors.
+- Setup and usage documentation for the `alembic` library.
+
