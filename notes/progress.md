@@ -65,3 +65,7 @@ This repo seems to focus on Rust and web development. Potential notes:
 - Contribution guidelines for new contributors.
 - Setup and usage documentation for the `alembic` library.
 
+
+GitHub Actions for CI/CD automation.
+Consider adding a `README.md` with project description and setup instructions.
+
