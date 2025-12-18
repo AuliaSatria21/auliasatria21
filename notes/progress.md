@@ -69,3 +69,7 @@ This repo seems to focus on Rust and web development. Potential notes:
 GitHub Actions for CI/CD automation.
 Consider adding a `README.md` with project description and setup instructions.
 
+
+GitHub Actions for CI/CD automation.
+Community contributions and collaboration guidelines.
+
