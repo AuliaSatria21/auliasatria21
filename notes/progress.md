@@ -73,3 +73,7 @@ Consider adding a `README.md` with project description and setup instructions.
 GitHub Actions for CI/CD automation.
 Community contributions and collaboration guidelines.
 
+
+Consider adding a README.md file to explain the project's purpose and how to use it.
+Explore using a `.gitignore` file to exclude unnecessary files and directories from version control.
+
