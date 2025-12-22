@@ -85,3 +85,7 @@ Explore using a `.gitignore` file to exclude unnecessary files and directories f
 * **Consider adding a README.md file to each project explaining its purpose, how to set it up, and how to run it.**
 * **Explore the possibility of contributing to open-source projects, demonstrating collaboration and learning from others.**
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+Explore adding a `.gitignore` file for common development environment exclusions.
+
