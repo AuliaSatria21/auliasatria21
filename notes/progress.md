@@ -89,3 +89,7 @@ Explore using a `.gitignore` file to exclude unnecessary files and directories f
 Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 Explore adding a `.gitignore` file for common development environment exclusions.
 
+
+Consider adding a section for contributions/how to contribute.
+Ensure clear documentation on project setup and execution.
+
