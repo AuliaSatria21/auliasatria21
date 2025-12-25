@@ -93,3 +93,7 @@ Explore adding a `.gitignore` file for common development environment exclusions
 Consider adding a section for contributions/how to contribute.
 Ensure clear documentation on project setup and execution.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
