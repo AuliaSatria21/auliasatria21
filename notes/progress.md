@@ -97,3 +97,7 @@ Ensure clear documentation on project setup and execution.
 Consider adding a CONTRIBUTING.md file to guide potential contributors.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+- Consider adding a README.md file to explain the project's purpose and how to use it.
+- Regularly update dependencies to ensure security and access to the latest features.
+
