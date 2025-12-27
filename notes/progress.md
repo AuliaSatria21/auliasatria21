@@ -105,3 +105,8 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 - Consider adding a section on personal projects and contributions.
 - Explore adding a section for recommended tools and technologies.
 
+
+Consider adding documentation for each API endpoint, including expected request/response formats and example usage.
+
+Explore implementing rate limiting and authentication for APIs to enhance security and manage resource usage.
+
