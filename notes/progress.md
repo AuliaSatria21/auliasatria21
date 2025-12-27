@@ -101,3 +101,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 - Consider adding a README.md file to explain the project's purpose and how to use it.
 - Regularly update dependencies to ensure security and access to the latest features.
 
+
+- Consider adding a section on personal projects and contributions.
+- Explore adding a section for recommended tools and technologies.
+
