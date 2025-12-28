@@ -110,3 +110,7 @@ Consider adding documentation for each API endpoint, including expected request/
 
 Explore implementing rate limiting and authentication for APIs to enhance security and manage resource usage.
 
+
+*   Consider adding CI/CD pipelines for automated testing and deployment.
+*   Explore adding a `CONTRIBUTING.md` file to guide potential contributors.
+
