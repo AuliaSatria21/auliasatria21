@@ -114,3 +114,8 @@ Explore implementing rate limiting and authentication for APIs to enhance securi
 *   Consider adding CI/CD pipelines for automated testing and deployment.
 *   Explore adding a `CONTRIBUTING.md` file to guide potential contributors.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline how others can contribute to the project.
+
+Explore CI/CD pipelines for automated testing and deployment to streamline the development process.
+
