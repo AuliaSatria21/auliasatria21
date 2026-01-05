@@ -134,3 +134,7 @@ Consider adding a `README.md` file to clearly explain the project's purpose, how
 
 Explore GitHub Actions for CI/CD to automate testing and deployment.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore GitHub Actions for automated testing and deployment.
+
