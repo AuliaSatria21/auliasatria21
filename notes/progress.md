@@ -143,3 +143,7 @@ Consider adding a README explaining the project's purpose, setup instructions, a
 
 Explore using GitHub Actions for continuous integration and deployment (CI/CD) to automate testing and releases.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
+Explore implementing CI/CD pipelines for automated testing and deployment.
+
