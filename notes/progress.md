@@ -147,3 +147,7 @@ Explore using GitHub Actions for continuous integration and deployment (CI/CD) t
 Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
 Explore implementing CI/CD pipelines for automated testing and deployment.
 
+
+Explore adding a CI/CD pipeline for automated testing and deployment.
+Consider integrating a documentation generation tool for better project understanding.
+
