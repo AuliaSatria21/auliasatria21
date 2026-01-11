@@ -151,3 +151,8 @@ Explore implementing CI/CD pipelines for automated testing and deployment.
 Explore adding a CI/CD pipeline for automated testing and deployment.
 Consider integrating a documentation generation tool for better project understanding.
 
+
+Consider adding a `README.md` file to introduce the repository, its purpose, and how to use it.
+
+Explore adding unit tests to ensure the code functions as expected and to catch regressions.
+
