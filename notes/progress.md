@@ -156,3 +156,7 @@ Consider adding a `README.md` file to introduce the repository, its purpose, and
 
 Explore adding unit tests to ensure the code functions as expected and to catch regressions.
 
+
+Consider adding a README.md with project descriptions, installation instructions, and usage examples.
+Explore adding a CONTRIBUTING.md to guide potential collaborators.
+
