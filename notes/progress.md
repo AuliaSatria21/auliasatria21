@@ -160,3 +160,7 @@ Explore adding unit tests to ensure the code functions as expected and to catch 
 Consider adding a README.md with project descriptions, installation instructions, and usage examples.
 Explore adding a CONTRIBUTING.md to guide potential collaborators.
 
+
+Consider adding automated CI/CD pipelines.
+Explore potential contributions to the `awesome-python` list.
+
