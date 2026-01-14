@@ -164,3 +164,7 @@ Explore adding a CONTRIBUTING.md to guide potential collaborators.
 Consider adding automated CI/CD pipelines.
 Explore potential contributions to the `awesome-python` list.
 
+
+*   Consider adding a CI/CD pipeline for automated testing and deployment.
+*   Explore using Docker for containerization to ensure consistent environments.
+
