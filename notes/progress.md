@@ -168,3 +168,7 @@ Explore potential contributions to the `awesome-python` list.
 *   Consider adding a CI/CD pipeline for automated testing and deployment.
 *   Explore using Docker for containerization to ensure consistent environments.
 
+
+Consider adding a README.md with a project overview, setup instructions, and usage examples.
+Explore CI/CD integration for automated testing and deployment.
+
