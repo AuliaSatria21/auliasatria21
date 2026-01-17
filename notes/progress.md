@@ -172,3 +172,7 @@ Explore potential contributions to the `awesome-python` list.
 Consider adding a README.md with a project overview, setup instructions, and usage examples.
 Explore CI/CD integration for automated testing and deployment.
 
+
+User-friendly documentation is key for widespread adoption.
+Consider adding CI/CD for automated testing and deployment.
+
