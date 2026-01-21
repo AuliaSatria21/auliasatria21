@@ -180,3 +180,7 @@ Consider adding CI/CD for automated testing and deployment.
 Consider adding a README.md file explaining the project's purpose, setup, and usage.
 Explore potential use cases for this repo and document them clearly.
 
+
+*   Consider adding a `.gitignore` file for common project types.
+*   Include a `README.md` with project descriptions and setup instructions.
+
