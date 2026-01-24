@@ -190,3 +190,7 @@ This repository seems to focus on personal projects and contributions, possibly 
 *   Consider a "Contribution Guidelines" or "How to Contribute" section for potential collaborators.
 *   Adding a README to each major project directory explaining its purpose and how to run it would be beneficial.
 
+
+"Enhance README with installation, usage, and contribution guidelines."
+"Consider adding unit tests for core functionalities."
+
