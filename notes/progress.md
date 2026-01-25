@@ -198,3 +198,7 @@ This repository seems to focus on personal projects and contributions, possibly 
 Automate deployment of existing Python applications.
 Explore adding CI/CD pipelines for faster iteration.
 
+
+Consider adding a README.md that clearly explains the project's purpose, setup instructions, and usage examples.
+Explore adding unit tests for key functionalities to ensure code stability and maintainability.
+
