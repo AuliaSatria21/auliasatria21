@@ -194,3 +194,7 @@ This repository seems to focus on personal projects and contributions, possibly 
 "Enhance README with installation, usage, and contribution guidelines."
 "Consider adding unit tests for core functionalities."
 
+
+Automate deployment of existing Python applications.
+Explore adding CI/CD pipelines for faster iteration.
+
