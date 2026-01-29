@@ -206,3 +206,7 @@ Explore adding unit tests for key functionalities to ensure code stability and m
 - Explore adding unit tests for core logic.
 - Consider a CONTRIBUTING.md file to guide external contributions.
 
+
+Automate dependency updates with Dependabot.
+Consider adding a `CODE_OF_CONDUCT.md` file to foster a welcoming community.
+
